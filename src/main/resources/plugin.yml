@@ -1,0 +1,8 @@
+name: BedWars_HoZ
+author: Ceph <HryOZivot.net>
+version: ${project.version}
+api-version: 1.13
+main: hoz.bedwars.Main
+
+depend:
+  - BedWars
